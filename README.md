@@ -6,7 +6,7 @@
  - Python
  - Linux
  - SQL
- - Security Information Event Management (Siem) tools
+ - Security Information Event Management tool (chronicle)
  - IDS
  - Network security
  - Information security
