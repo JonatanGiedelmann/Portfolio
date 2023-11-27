@@ -1,16 +1,16 @@
 # Portfolio
 
 #### Technical Skills: 
- -TCPDUMP
- -Wireshark
- -Python
- -Linux
- -SQL
- -Security Information Event Management (Siem) tools
- -IDS
- -Network security
- -Information security
- -NIST - cybersecurity framework
+ - TCPDUMP
+ - Wireshark
+ - Python
+ - Linux
+ - SQL
+ - Security Information Event Management (Siem) tools
+ - IDS
+ - Network security
+ - Information security
+ - NIST cybersecurity framework
 
 
 ## Education
