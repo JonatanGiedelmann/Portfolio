@@ -1,31 +1,31 @@
 # Portfolio
 
 #### Technical Skills: 
--TCPDUMP
--Wireshark
--Python
--Linux
--SQL
--Security Information Event Management (Siem) tools
--IDS
--Network security
--Information security
--NIST - cybersecurity framework
+ -TCPDUMP
+ -Wireshark
+ -Python
+ -Linux
+ -SQL
+ -Security Information Event Management (Siem) tools
+ -IDS
+ -Network security
+ -Information security
+ -NIST - cybersecurity framework
 
 
 ## Education
-- Google Cybersecurity Certificate | Coursera (_October 2023_)
-- Audio Engineering Deegree | The University of San Buenaventura (_July 2015_)								       		
-- Bioethics Deegree	|  The University of San Buenaventura (_January 2015_)				        		
+ - Google Cybersecurity Certificate | Coursera (_October 2023_)
+ - Audio Engineering Deegree | The University of San Buenaventura (_July 2015_)								       		
+ - Bioethics Deegree	|  The University of San Buenaventura (_January 2015_)				        		
 
 
 ## Languages
-- English
-- Spanish
+ - English
+ - Spanish
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+ - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+ - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
